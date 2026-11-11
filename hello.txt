@@ -1,0 +1,3 @@
+Hello World!
+
+This file was generated using Backstage Scaffolder.
